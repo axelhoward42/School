@@ -110,6 +110,7 @@ int getMethod3ShiftAmount(string key1, string key2){
     return sharedchars;
 
 }
+
 int getMethod2ShiftAmount(string key1){
 
     int length = key1.length();
